@@ -1,0 +1,6 @@
+ID_Equipamento,Processador,Memoria_RAM_GB,Setor
+101,Intel i5,8,Financeiro
+102,Intel i7,16,TI
+103,AMD Ryzen 5,8,RH
+104,Intel i9,32,Engenharia
+105,AMD Ryzen 7,16,Marketing
